@@ -1,1 +1,2 @@
-# ml-algorithm-from-scratch
+# Machine Learning from Scratch
+This repository is a hands-on exploration of fundamental machine learning algorithms, implemented from the ground up to understand the core logic behind each. It's a journey into the mechanics of algorithms. Please note, the focus here is on educational insight, not computational efficiency. This is for those who want to delve beyond the convenience of libraries like Scikit-learn and truly grasp the workings of machine learning algorithms.
